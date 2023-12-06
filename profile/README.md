@@ -13,3 +13,6 @@ We believe in the power of collaboration and welcome contributions from the comm
 - **Feature Requests:** Have a brilliant idea for a new feature? Let us know by creating an issue.
 
 Feel free to explore and contribute to Flo.CI!
+
+## 🏆 Team
+Gerald Wang, Sarva Sanjay, Levent Ozay, Greg Gismondi, Ansh Prasad
